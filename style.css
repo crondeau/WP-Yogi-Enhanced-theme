@@ -91,6 +91,7 @@ body,figure,form{margin:0}
 	float:left;
 	padding: 5px 10px 10px 0;
 }
+
 .attachment-single-post-thumbnail {
 	float:right;
 	padding: 5px 0px 10px 10px;
@@ -155,7 +156,6 @@ blockquote{
 
 /* Main Layout
 -----------------------------------------------*/
-
 body {
 	background:url(images/bg.gif);
 	color: #0d0d0d;
@@ -163,6 +163,7 @@ body {
 	margin:0;
 	padding:0;	
 }
+
 #wrap {
 	position:relative;
 	width: 960px;
@@ -280,7 +281,6 @@ body {
 
 /* Main Body Content Area 
 -----------------------------------------------------------*/
-
 #main {
 	float:left;
 	width:900px;
@@ -521,6 +521,5 @@ ol#commentlist li p {
 #submit:hover {
 	cursor:pointer;
 }
-
 
 .form-allowed-tags {display:none;}/* Hides all the crap about html tags*/
