@@ -8,7 +8,7 @@ http://www.wpyogi.com/2011/09/enhance-your-custom-theme/
 This theme is the second one is a series.
 
 You can check out a demo of the theme here.
-http://enhanced.wpyogi.com/
+http://wpyogi.com/enhanced/
  
 
 
